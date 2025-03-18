@@ -4,7 +4,7 @@ export interface MoveApi {
   id: number;
   name: string;
   power: number;
-  stat_changes: any[];
+  stat_changes: string[];
   effect_entries: Effect[];
   type: Type;
 }
