@@ -1,3 +1,3 @@
-export default function Home() {
+export default function GamePage() {
   return <div className=""></div>;
 }
